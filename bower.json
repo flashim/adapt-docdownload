@@ -1,0 +1,20 @@
+{
+    "name": "adapt-docdownload",
+    "repository": "",
+    "framework": ">=2",
+    "version": "0.0.1",
+    "homepage": "",
+    "authors": [
+        "Ashim S<flashim@gmail.com>"
+    ],
+    "description": "Download button for preformatted document.",
+    "main": "/js/adapt-docdownload.js",
+    "displayName": "Download button for Document",
+    "component": "docdownload",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-component",
+        "adapt-docdownload"
+    ],
+    "license": "GPLv3"
+}

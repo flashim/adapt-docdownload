@@ -1,0 +1,28 @@
+{
+    "_id": "c-05",
+    "_parentId": "b-05",
+    "_type": "component",
+    "_component": "docdownload",
+    "_classes": "",
+    "title": "Download Document Button",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_html": "<!DOCTYPE html><html lang='en'><head><title></title></head><body><div><H1>Testing with document</H1></div><table><tr><td>Text</td><td>Rating</td><td>values</td></tr><tr><td>This is text 136 and 137</td><td>c-136</td><td>c-137</td></tr><tr><td>This is text 138 and 139</td><td>c-138</td><td>c-139</td></tr></table></body></html>",
+    "_items": [{
+        "id": "c-136",
+        "component": "slider"
+    }, {
+        "id": "c-137",
+        "component": "openTextInput"
+    }, {
+        "id": "c-138",
+        "component": "slider"
+    }, {
+        "id": "c-139",
+        "component": "openTextInput"
+    }, {
+        "id": "c-1511",
+        "component": "openTextInput"
+    }]
+},
